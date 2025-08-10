@@ -1,0 +1,8 @@
+baseURL: "/"
+languageCode: "en-us"
+title: "My Hugo Site"
+theme: "PaperMod"
+params:
+  homeInfoParams:
+    Title: "Hello from PaperMod!"
+    Content: "This is your new Hugo site running PaperMod theme."
